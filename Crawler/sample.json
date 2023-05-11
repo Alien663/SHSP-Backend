@@ -1,0 +1,67 @@
+{
+    "draw": 1,
+    "recordsFiltered": 1064,
+    "recordsTotal": 1064,
+    "data": [
+        {
+            "Id": 386592,
+            "HistoryOverSchoolNo": "720301",
+            "HistoryOverSchoolName": "國立馬祖高中",
+            "HistoryOverChineseName": "別想打擾我學習",
+            "HistoryOverTitleName": "成績不代表一切",
+            "HistoryOverUserName": "王子恩",
+            "HistoryOverUserGrade": "1",
+            "HistoryOverUserClass": "忠班",
+            "HistoryOverRanking": 2,
+            "HistoryOverAreaName": "新北",
+            "HistoryEssayOverCityName": "連江縣",
+            "HistoryOverTeacherName1": "廖立宇",
+            "HistoryOverTeacherName2": ""
+        },
+        {
+            "Id": 386593,
+            "HistoryOverSchoolNo": "720301",
+            "HistoryOverSchoolName": "國立馬祖高中",
+            "HistoryOverChineseName": "夢中的餅乾屋",
+            "HistoryOverTitleName": "夢中的餅乾屋",
+            "HistoryOverUserName": "李若涵",
+            "HistoryOverUserGrade": "1",
+            "HistoryOverUserClass": "一忠",
+            "HistoryOverRanking": 3,
+            "HistoryOverAreaName": "新北",
+            "HistoryEssayOverCityName": "連江縣",
+            "HistoryOverTeacherName1": "廖立宇",
+            "HistoryOverTeacherName2": ""
+        },
+        {
+            "Id": 386594,
+            "HistoryOverSchoolNo": "720301",
+            "HistoryOverSchoolName": "國立馬祖高中",
+            "HistoryOverChineseName": "沒有自律還談什麼夢想",
+            "HistoryOverTitleName": "自律生活給我的啟發",
+            "HistoryOverUserName": "陳奕文",
+            "HistoryOverUserGrade": "2",
+            "HistoryOverUserClass": "信",
+            "HistoryOverRanking": 3,
+            "HistoryOverAreaName": "新北",
+            "HistoryEssayOverCityName": "連江縣",
+            "HistoryOverTeacherName1": "何若虛",
+            "HistoryOverTeacherName2": ""
+        },
+        {
+            "Id": 386595,
+            "HistoryOverSchoolNo": "720301",
+            "HistoryOverSchoolName": "國立馬祖高中",
+            "HistoryOverChineseName": "西線無戰事",
+            "HistoryOverTitleName": "西線無戰事觀後感",
+            "HistoryOverUserName": "陳正丞",
+            "HistoryOverUserGrade": "1",
+            "HistoryOverUserClass": "一孝",
+            "HistoryOverRanking": 2,
+            "HistoryOverAreaName": "新北",
+            "HistoryEssayOverCityName": "連江縣",
+            "HistoryOverTeacherName1": "廖立宇",
+            "HistoryOverTeacherName2": ""
+        }
+    ]
+}
