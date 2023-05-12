@@ -1,3 +1,13 @@
 Tokenization/.vs/
-Tokenization/bin/
-Tokenization/obj/
+Tokenization/[Dd]ebug/
+Tokenization/[Dd]ebugPublic/
+Tokenization/[Rr]elease/
+Tokenization/[Rr]eleases/
+Tokenization/x64/
+Tokenization/x86/
+Tokenization/[Aa][Rr][Mm]/
+Tokenization/[Aa][Rr][Mm]64/
+Tokenization/bld/
+Tokenization/[Bb]in/
+Tokenization/[Oo]bj/
+Tokenization/[Ll]og/
